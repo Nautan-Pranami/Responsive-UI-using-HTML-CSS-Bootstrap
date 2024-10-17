@@ -4,6 +4,12 @@
 
 This project presents a fully **responsive UI** for a **company profile website**, built using **HTML, CSS, and Bootstrap**. The design is modern and professional, making use of Bootstrap's grid system and components to create a seamless, user-friendly interface. It is optimized to provide a consistent viewing experience across a wide range of devices, from desktops to mobile phones.
 
+
+![image](https://github.com/user-attachments/assets/59d443da-1d41-450c-baee-c2a018a6f19a)
+![image](https://github.com/user-attachments/assets/cdd0845f-2c95-45dd-88f4-bae501fb90d3)
+![{C490A39F-5927-46A7-90A4-ECF1DF31A2E8}](https://github.com/user-attachments/assets/b83958c9-dfb4-4f46-9925-e287d75610b5)
+
+
 ### Key Features:
 
 - **Top Navigation Bar**:  

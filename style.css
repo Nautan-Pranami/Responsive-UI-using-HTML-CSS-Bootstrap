@@ -1,0 +1,50 @@
+.dropdown-menu{
+    background-color: rgb(73, 15, 0) !important;
+}
+
+.carousel-item{ 
+    height: 50vh;
+}
+
+.carousel-caption {
+    color: #ffffff !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+
+.img {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)) url(./img/img1.png);
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.logo{
+    object-fit: cover;
+    width: 120px;
+}
+footer{
+    background-color: rgb(28, 22, 28);
+    color: bisque;
+    padding: 20px;
+    margin-top: 50px;
+}
+.footer-parent{
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    text-decoration: none;
+    color: bisque;
+}
+
+li {
+    list-style: none;
+}

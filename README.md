@@ -58,7 +58,7 @@ This project presents a fully **responsive UI** for a **company profile website*
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Nautan-Pranami/Responsive-UI-using-HTML-CSS-Bootstrap.git
    ```
 
 2. **Open `index.html`**:  
